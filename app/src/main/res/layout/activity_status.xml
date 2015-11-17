@@ -31,7 +31,7 @@
     android:paddingLeft="@dimen/activity_horizontal_margin"
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin" >
-
+    <!--
     <Button
         style="@style/font_general"
         android:id="@+id/status_button_tweet"
@@ -64,6 +64,7 @@
         android:layout_alignBottom="@+id/status_button_tweet"
         android:layout_alignLeft="@+id/status_text"
         android:text="140" />
+    -->
 
 </RelativeLayout>
 
